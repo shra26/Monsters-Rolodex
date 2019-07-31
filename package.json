@@ -2,7 +2,7 @@
 	"name": "monsters-rolodex",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://shra26.github.io/monsters-rolodex",
+	"homepage": "https://shra26.github.io/Monsters-Rolodex",
 	"dependencies": {
 		"gh-pages": "^2.0.1",
 		"lodash.template": "^4.5.0",
